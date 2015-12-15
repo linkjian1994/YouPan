@@ -1,0 +1,37 @@
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+	        <a class="navbar-brand" href="{:U('Index/index')}">
+	        	<img src="__PUBLIC__/img/cloud_24.png" alt="">
+	        </a>
+	        <div class="navbar-brand">YouPan</div>
+		</div>
+		<div class="collapse navbar-collapse" role="navigation">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="{:U('Index/index')}" >主页</a></li>
+				<li><a href="{:U('Disk/index')}">网盘</a></li>
+				<li><a href="">分享</a></li>
+			</ul>
+			<div class="form-group">
+				<empty name="Think.session.userID">
+					<a href="{:U('Index/signup')}" class="btn btn-info navbar-btn pull-right">注册</a>
+					<a href="{:U('Index/signin')}" class="btn btn-default navbar-btn pull-right" style="margin-right:10px;">登录</a>
+				<else />
+					
+					<ul class="nav navbar-nav navbar-right">
+
+		            <li class="dropdown">
+		              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{$Think.session.email} <span class="caret"></span></a>
+		              <ul class="dropdown-menu">
+		                <li><a href="{:U('User/logout')}"><i class="icon-user"></i>个人资料</a></li>
+		                <li><a href="{:U('User/logout')}"><i class="icon-signout"></i>退出登录</a></li>
+		              </ul>
+		            </li>
+		          </ul>
+				</empty>
+				
+			</div>
+			
+		</div>	
+	</div>
+</nav>

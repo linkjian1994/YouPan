@@ -1,0 +1,111 @@
+[ 2015-11-18T22:23:26+08:00 ] 183.24.96.63 /YouPan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002585s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001551s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001990s ]
+
+[ 2015-11-18T22:23:42+08:00 ] 183.136.139.19 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'FlQ36YJlwYrp5NbdyRSCqxGqswxH' LIMIT 1   [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `tbMimeType` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `tbMimeType` WHERE `fdName` = 'text/html' LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('applications.html','3619','FlQ36YJlwYrp5NbdyRSCqxGqswxH','10110','2015-11-18 22:23:42','2015-11-18 22:23:42','156') [ RunTime:0.0084s ]
+
+[ 2015-11-18T22:25:06+08:00 ] 183.136.139.17 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'FrphXxHrMnmFFC4Ua2LZFbEo1eKX' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tbMimeType` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tbMimeType` WHERE `fdName` = 'application/x-httpd-php' LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('index.php','260','FrphXxHrMnmFFC4Ua2LZFbEo1eKX','10110','2015-11-18 22:25:06','2015-11-18 22:25:06','192') [ RunTime:0.0071s ]
+
+[ 2015-11-18T22:25:30+08:00 ] 183.136.139.17 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'FhkqAOLYVcczZkFVS8Kh4gdiLXSo' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tbMimeType` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tbMimeType` WHERE `fdName` = 'text/css' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('bitnami.css','177','FhkqAOLYVcczZkFVS8Kh4gdiLXSo','10110','2015-11-18 22:25:30','2015-11-18 22:25:30','154') [ RunTime:0.0063s ]
+
+[ 2015-11-18T22:25:40+08:00 ] 183.136.139.11 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'Fn-e4Kk-QBLS9w7WiI6bdqY_pMDn' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tbMimeType` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tbMimeType` WHERE `fdName` = 'image/png' LIMIT 1   [ RunTime:0.0003s ]
+ERR: 1048:Column 'fdMimeTypeID' cannot be null
+ [ SQL语句 ] : INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('module_table_bottom.png','751','Fn-e4Kk-QBLS9w7WiI6bdqY_pMDn','10110','2015-11-18 22:25:40','2015-11-18 22:25:40',NULL)
+ERR: 1048:Column 'fdMimeTypeID' cannot be null
+ [ SQL语句 ] : INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('module_table_bottom.png','751','Fn-e4Kk-QBLS9w7WiI6bdqY_pMDn','10110','2015-11-18 22:25:40','2015-11-18 22:25:40',NULL)
+
+[ 2015-11-18T22:25:50+08:00 ] 183.136.139.11 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'Fh1fuJdwe92vCjdoB9xItfihcBi-' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tbMimeType` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tbMimeType` WHERE `fdName` = 'application/x-sql' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('youpan.sql','1513','Fh1fuJdwe92vCjdoB9xItfihcBi-','10110','2015-11-18 22:25:50','2015-11-18 22:25:50','193') [ RunTime:0.0078s ]
+
+[ 2015-11-18T22:27:21+08:00 ] 183.136.139.11 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'Fh1fuJdwe92vCjdoB9xItfihcBi-' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2015-11-18T22:27:30+08:00 ] 183.136.139.14 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `tbfile` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tbfile` WHERE `fdKey` = 'FmKq6JjO3HJASlYAKMTxnFWuljmS' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tbMimeType` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tbMimeType` WHERE `fdName` = 'text/plain' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `tbfile` (`fdName`,`fdSize`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdMimeTypeID`) VALUES ('.gitignore','34','FmKq6JjO3HJASlYAKMTxnFWuljmS','10110','2015-11-18 22:27:30','2015-11-18 22:27:30','160') [ RunTime:0.0138s ]
+

@@ -1,0 +1,1302 @@
+[ 2015-11-28T00:53:31+08:00 ] 123.151.149.222 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2015-11-28T01:09:43+08:00 ] 123.57.174.113 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2015-11-28T11:02:30+08:00 ] 121.40.71.196 http://www.haosou.com/?t=1448679750684
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-11-28T12:35:40+08:00 ] 171.208.221.246 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-11-28T18:31:12+08:00 ] 192.99.150.120 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007623s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2015-11-28T22:52:45+08:00 ] 183.24.96.55 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-11-28T22:52:46+08:00 ] 183.24.96.55 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2015-11-28T22:52:49+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-11-28T22:52:50+08:00 ] 183.24.96.55 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2015-11-28T22:52:55+08:00 ] 183.24.96.55 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `tbUser` [ RunTime:0.0984s ]
+NOTIC: [8] Undefined index: validate /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT `id`,`fdName`,`fdPassword`,`fdStatus` FROM `tbUser` WHERE `fdEmail` = '924714955@qq.com' LIMIT 1   [ RunTime:0.0519s ]
+NOTIC: [8] Undefined index: auto /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2015-11-28T22:52:55+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0461s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0455s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0455s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.052357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006859s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.046117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.052839s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-11-28T22:53:13+08:00 ] 183.136.139.14 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载控制器:Home
+
+[ 2015-11-28T22:53:13+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0525s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0519s ]
+
+[ 2015-11-28T22:53:25+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0522s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0526s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.058532s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006884s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.052311s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.059060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-11-28T22:53:30+08:00 ] 183.136.139.19 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载控制器:Home
+
+[ 2015-11-28T22:53:30+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0513s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0506s ]
+
+[ 2015-11-28T22:53:43+08:00 ] 183.24.97.164 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007216s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-11-28T22:53:56+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-11-28T22:53:56+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-11-28T22:53:57+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2015-11-28T22:54:01+08:00 ] 183.24.96.55 /YouPan/index.php/Home/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载控制器:Home
+
+[ 2015-11-28T22:54:34+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+
+[ 2015-11-28T22:54:34+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2015-11-28T22:54:37+08:00 ] 183.24.97.164 /index.php/Index/signup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007457s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2015-11-28T22:54:45+08:00 ] 183.24.97.164 /index.php/Index/signup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `tbUser` [ RunTime:0.0515s ]
+NOTIC: [8] Undefined index: validate /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `tbUser` WHERE `fdEmail` = '897960700@qq.com' LIMIT 1   [ RunTime:0.0510s ]
+
+[ 2015-11-28T22:54:46+08:00 ] 183.24.96.55 /YouPan/index.php/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-11-28T22:54:55+08:00 ] 183.24.97.164 /index.php/Index/signup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `tbUser` [ RunTime:0.0520s ]
+NOTIC: [8] Undefined index: validate /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `tbUser` WHERE `fdEmail` = '897960700@qq.com' LIMIT 1   [ RunTime:0.0514s ]
+NOTIC: [8] Undefined index: auto /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `tbUser` (`fdEmail`,`fdPassword`,`fdCreate`,`fdUpdate`) VALUES ('897960700@qq.com','7886a14f693a1eb34d53b56b0ca88e67','2015-11-28 22:54:55','2015-11-28 22:54:55') [ RunTime:0.0562s ]
+
+[ 2015-11-28T22:54:55+08:00 ] 183.24.97.164 /index.php/User/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+
+[ 2015-11-28T22:54:55+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007732s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-11-28T22:55:00+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `tbUser` [ RunTime:0.0506s ]
+NOTIC: [8] Undefined index: validate /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT `id`,`fdName`,`fdPassword`,`fdStatus` FROM `tbUser` WHERE `fdEmail` = '897960700@qq.com' LIMIT 1   [ RunTime:0.0501s ]
+NOTIC: [8] Undefined index: auto /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2015-11-28T22:55:00+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0456s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0450s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0451s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.056591s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006435s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.045766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000010s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.052031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2015-11-28T22:55:04+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0461s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0451s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006597s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 1 LIMIT 1   [ RunTime:0.0449s ]
+
+[ 2015-11-28T22:55:05+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0446s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 3 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0439s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 3 LIMIT 1   [ RunTime:0.0438s ]
+
+[ 2015-11-28T22:55:06+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0445s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 2 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0446s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 2 LIMIT 1   [ RunTime:0.0443s ]
+
+[ 2015-11-28T22:55:07+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0522s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 4 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007080s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 4 LIMIT 1   [ RunTime:0.0519s ]
+
+[ 2015-11-28T22:55:08+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0526s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 0 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0523s ]
+
+[ 2015-11-28T22:55:35+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0446s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0438s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.050985s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007144s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.044714s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.051734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-11-28T22:55:40+08:00 ] 183.136.139.11 /YouPan/index.php/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0453s ]
+SQL: SELECT * FROM `tbFile` WHERE `fdKey` = 'FtVXTLvpw7M8YgYKJdJnnp3TRqe7' LIMIT 1   [ RunTime:0.0445s ]
+SQL: SHOW COLUMNS FROM `tbMime` [ RunTime:0.0456s ]
+SQL: SELECT tbFileType.id FROM `tbMime` INNER JOIN tbFileType on tbFileType.id = tbMime.fdTypeID  WHERE `fdExt` = 'md' LIMIT 1   [ RunTime:0.0448s ]
+SQL: INSERT INTO `tbFile` (`fdName`,`fdSize`,`fdSizeH`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdTypeID`) VALUES ('crond.md','2274','2.22kb','FtVXTLvpw7M8YgYKJdJnnp3TRqe7','1','2015-11-28 22:55:40','2015-11-28 22:55:40','5') [ RunTime:0.0447s ]
+
+[ 2015-11-28T22:55:40+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0464s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0458s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0456s ]
+
+[ 2015-11-28T22:55:53+08:00 ] 183.24.96.55 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2015-11-28T22:55:56+08:00 ] 183.24.96.55 /index.php/User/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+
+[ 2015-11-28T22:55:56+08:00 ] 183.24.96.55 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2015-11-28T22:57:48+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-11-28T22:57:48+08:00 ] 183.24.96.55 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-11-28T22:57:50+08:00 ] 183.24.96.55 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `tbUser` [ RunTime:0.0450s ]
+NOTIC: [8] Undefined index: validate /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT `id`,`fdName`,`fdPassword`,`fdStatus` FROM `tbUser` WHERE `fdEmail` = '924714955@qq.com' LIMIT 1   [ RunTime:0.0453s ]
+NOTIC: [8] Undefined index: auto /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2015-11-28T22:57:50+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0449s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0442s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.051417s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006478s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.045520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.051867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-11-28T22:57:52+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0521s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 20,20   [ RunTime:0.0516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0522s ]
+
+[ 2015-11-28T22:57:53+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0533s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 ORDER BY id desc LIMIT 40,20   [ RunTime:0.0530s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0527s ]
+
+[ 2015-11-28T22:58:28+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0521s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 0 AND `fdUserID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0514s ]
+
+[ 2015-11-28T22:58:29+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0518s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 AND `fdTypeID` = 3 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007456s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 AND `fdTypeID` = 3 LIMIT 1   [ RunTime:0.0509s ]
+
+[ 2015-11-28T22:58:30+08:00 ] 183.24.96.55 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0513s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 1 AND `fdTypeID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 1 AND `fdStatus` = 1 AND `fdTypeID` = 1 LIMIT 1   [ RunTime:0.0504s ]
+
+[ 2015-11-28T23:14:46+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0548s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0524s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.057777s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006694s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.051776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.058347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-11-28T23:14:50+08:00 ] 183.24.97.164 /index.php/User/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-11-28T23:14:50+08:00 ] 183.24.97.164 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2015-11-28T23:14:55+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-11-28T23:14:57+08:00 ] 183.24.97.164 /index.php/Index/signin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `tbUser` [ RunTime:0.0466s ]
+NOTIC: [8] Undefined index: validate /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT `id`,`fdName`,`fdPassword`,`fdStatus` FROM `tbUser` WHERE `fdEmail` = '897960700@qq.com' LIMIT 1   [ RunTime:0.0459s ]
+NOTIC: [8] Undefined index: auto /application/httpd/htdocs/YouPan/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2015-11-28T23:14:58+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0457s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0451s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.051645s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006551s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.045693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.052125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-11-28T23:24:12+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0514s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0513s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 1 LIMIT 1   [ RunTime:0.0507s ]
+
+[ 2015-11-28T23:24:14+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0463s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 0 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0456s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0456s ]
+
+[ 2015-11-28T23:24:14+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0515s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0508s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0508s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.057405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006726s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.051415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.058018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2015-11-28T23:24:24+08:00 ] 183.136.139.19 /YouPan/index.php/Disk/callback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0520s ]
+SQL: SELECT * FROM `tbFile` WHERE `fdKey` = 'Fqu60fc5dRZPHFxr3N1PurHm0Wqx' LIMIT 1   [ RunTime:0.0527s ]
+SQL: SHOW COLUMNS FROM `tbMime` [ RunTime:0.0522s ]
+SQL: SELECT tbFileType.id FROM `tbMime` INNER JOIN tbFileType on tbFileType.id = tbMime.fdTypeID  WHERE `fdExt` = 'png' LIMIT 1   [ RunTime:0.0516s ]
+SQL: INSERT INTO `tbFile` (`fdName`,`fdSize`,`fdSizeH`,`fdKey`,`fdUserID`,`fdCreate`,`fdUpdate`,`fdTypeID`) VALUES ('[OKDK[HQWM4}TP)UEZO~Z]C.png','14354','14.02kb','Fqu60fc5dRZPHFxr3N1PurHm0Wqx','6','2015-11-28 23:24:24','2015-11-28 23:24:24','1') [ RunTime:0.0516s ]
+
+[ 2015-11-28T23:24:25+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0471s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0474s ]
+
+[ 2015-11-28T23:24:32+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0521s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 0 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0515s ]
+
+[ 2015-11-28T23:24:32+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0517s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 98 行.
+NOTIC: [8] Undefined index: isDelete /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 102 行.
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0512s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007306s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined index: fileType /application/httpd/htdocs/YouPan/Application/Home/Model/FileModel.class.php 第 161 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 LIMIT 1   [ RunTime:0.0511s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.057839s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006708s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.051844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.058401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-11-28T23:24:34+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0524s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 1 LIMIT 1   [ RunTime:0.0527s ]
+
+[ 2015-11-28T23:24:35+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0517s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 3 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0514s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 3 LIMIT 1   [ RunTime:0.0512s ]
+
+[ 2015-11-28T23:24:37+08:00 ] 183.24.97.164 /index.php/Disk/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `tbFile` [ RunTime:0.0517s ]
+SQL: SELECT `id`,`fdName`,`fdSize`,`fdUpdate`,`fdSizeH` FROM `tbFile` WHERE `fdStatus` = 1 AND `fdUserID` = 6 AND `fdTypeID` = 1 ORDER BY id desc LIMIT 0,20   [ RunTime:0.0515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tbFile` WHERE `fdUserID` = 6 AND `fdStatus` = 1 AND `fdTypeID` = 1 LIMIT 1   [ RunTime:0.0512s ]
+

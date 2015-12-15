@@ -1,0 +1,40 @@
+body{font-family: 微软雅黑; }
+.navbar{margin-bottom: 8px;}
+.container-fluid{padding-left:0px; }
+.left{width: 15%;height: 580px;background-color: #f6fafd;float: left;}
+.right{width: 85%;height: 550px;background-color: #fff;float: left;}
+.tool{width: 100%;float: left;height: 35px;}
+.tool button{float: left;margin-left: 10px;}
+.file-info{width: 100%;height: 60px;float: left;margin-top: 20px;}
+.progress{width: 392px;height: 11px;}
+.file-info div {float: left}
+.file-info .file-name{margin-bottom:10px;float: none;}
+.precent{line-height: 10px;margin-left: 30px;}
+.precent-num{width: 42px;float: left;}
+.file-info .upload-progress-info{width: 100%;margin-top: -15px;}
+#upload-list{width: 569px;height:300px;margin-top: 15px;padding: 20px;background-color: #f9f9f9;overflow: auto;}
+.fileList{float: left;margin-top: 10px;width: 100%;overflow: auto;height:95%;margin-left: 13px;}
+.fileList .row{margin: 0;}
+/*.fileList .table{float: left;margin-bottom: 10px;}*/
+.fileList tr{height: 45px;}
+.fileList .table  td{font-size: 12px;line-height: 30px;}
+.fileList td,th {padding-left: 5px;}
+.fileList tr td:first-child{width: 50%; }
+.fileName{float: left;width: 80%;}
+.fileConsole{float: right;display:none;width: 18%;margin-bottom: -10px;}
+.fileList tr:hover .fileConsole{display: block; }
+.fileSize,.fileUpdate{color: #a8a9aa};
+.download{cursor: pointer;}
+.left ul li {text-align: left;float: left;width: 100%;}
+.left ul li a{ float: left;height:100%;width: 100%;line-height: 18px;font-size: 14px;text-align: left;padding: 16px;padding-left: 30px;}
+.left ul li span:nth-child(1) {float: left;width: 18px;}
+.left ul li span:nth-child(2) {float: left;margin-left: 20px;line-height: 10px;}
+.loading{position: absolute; left: 700px; margin-top: 50px;}
+#share .modal-body{padding:50px;}
+#share .share-btn-area{margin-left: 95px;}
+#share .share-btn-area p{margin-bottom: 50px;}
+#share .share-btn-area span {margin-left: 20px;}
+.create-success i{color:#178EF2;float: left;margin-top: -4px;}
+.create-success span{color: #178EF2;font-size: 16px;}
+.create-success .form-group{margin-top: 31px;  margin-bottom: 30px}
+#copy-share{float: right;}

@@ -1,0 +1,13 @@
+<volist name="files" id="file">
+	<tr>
+		<td data="{$file.id}">
+			<span class="fileName">{$file.fdName}</span>
+			<ul class="list-inline fileConsole">
+				<li class="download"><span class="glyphicon glyphicon-download-alt"></span></li>
+				<li><span class="glyphicon glyphicon-share"></span></li>
+			</ul>
+		</td>
+		<td class="fileSize">{$file.fdSizeH}</td>
+		<td class="fileUpdate">{$file.fdUpdate}</td>
+	</tr>
+</volist>

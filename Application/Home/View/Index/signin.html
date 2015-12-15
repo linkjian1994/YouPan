@@ -1,0 +1,60 @@
+<import type='css' file="css.signup" />
+<div class="container">
+  <form class="form-signin">
+    <h2 class="form-signin-heading">YouPan</h2>
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="email" id="inputEmail" class="form-control" placeholder="电子邮箱" required autofocus name="email">
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" id="inputPassword" class="form-control" placeholder="密码" required name="password"/>
+    <button class="btn btn-lg btn-success btn-block" type="submit" id="btn-login">登录</button>
+  </form>
+</div>
+<!-- /container -->
+<div class="modal fade" id="message"  tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-sm" >
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="mySmallModalLabel">提示</h4>
+      </div>
+      <div class="modal-body" style="text-align:center">
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(function(){
+    $('.form-signin').submit(function(){
+        var $btn = $('#btn-login');
+
+        $.ajax({
+          url:"{:U('Index/signin')}",
+          type : 'POST',
+          data:$('.form-signin').serialize(),
+          dataType:'json',
+          beforeSend : function(){
+            $btn.attr('disabled','disabled ');
+            $btn.html('<i class="icon-spinner icon-spin"></i>');
+          },
+          success : function(data){
+              if(data.code == 0)
+              {
+                $('#message').find('.modal-body p').text(data.message);
+                $('#message').modal('show');
+                $btn.attr('disabled',false);
+                $btn.html('登录');
+              }else{
+                location.href = '{:U('Disk/index')}';
+              }
+          },
+          error:function(){
+              $('#message').find('.modal-body p').text('服务器错误');
+          }
+      })
+      return false;
+    })
+  });
+</script>
+
